@@ -1,16 +1,9 @@
-This is an online registration page made using flask and mysql database.
-Required things to run this project are mysql, python, flask, flask-mysqldb. 
-You will find all dependencys for this Project in the requirements.txt file.
-
-Launch Dev Container
-Once you have Visual Studio Code and the Remote - Containers extension installed, you can launch the dev container by clicking the button below:
-[Launch Dev Container]
-This will open the project in a Docker container with all the necessary dependencies pre-installed.
+Der Container docker-2048 wird duch das Dockfile auf das Github von dem Ersteller geschickt. Danach wird mithilfe des devcontainers folgendes Js File geöffnet: game_manager.js. Mithilfe des Dockerfile wird dann noch der Container erstelle.
 
 [
     ![Open in Remote - Containers](
         https://xebia.com/wp-content/uploads/2023/11/v1.svg    )
 ](
-    https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/Manuel-schmassmann/docker-2048.git
+    https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/Manuel-schmassmann/docker-2048-sm.git
 )
 
