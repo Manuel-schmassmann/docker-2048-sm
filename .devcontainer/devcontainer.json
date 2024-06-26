@@ -1,5 +1,5 @@
 {   "name": "game_manager.js",
     "build": {"dockerfile": "./Dockerfile"},
-    "forwardPorts": [8080]
+    "forwardPorts": [80],
+    "postStartCommand": "nginx"
 }
-
