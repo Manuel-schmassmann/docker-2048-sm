@@ -1,0 +1,4 @@
+{   "name": "APP",
+    "build": {"dockerfile": "./Dockerfile"},
+    "forwardPorts": [80]
+}
